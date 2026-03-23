@@ -4,7 +4,7 @@ project:
   # description:
   keywords: [Jupyter Book, Open Science, TU Delft, Starterkit]
 
-  github: https://github.com/TUD-JB-OS/starterkit
+  github: https://github.com/FreekPols/my_first_project
   date: 2026-01-31
   
   # specify authors in authors.yml file
